@@ -1,0 +1,5 @@
+create sub menu on the table
+
+insert into database123.edata (idemployeeinfo,name,surname,age) values (1,'mark','bill',34);
+
+

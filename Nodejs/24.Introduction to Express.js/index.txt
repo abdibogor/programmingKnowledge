@@ -1,0 +1,7 @@
+node app.js
+node app.js
+npm install nodemon -g
+
+wwww.npmjs.com/package/nodemon
+nodemon app.js
+

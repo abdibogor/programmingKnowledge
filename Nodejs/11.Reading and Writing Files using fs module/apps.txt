@@ -1,0 +1,21 @@
+var fs = require('fs');
+
+var resd_string = fs.readFile('test.txt'.'utf8', function(err, data){
+    if (err)
+    return console.error(err);
+     
+    console.log(data);
+});
+
+
+//fs.writeFileSync('test2.txt',read_string);
+
+console.log('The file is read');
+
+fs.writeFile('test3.txt', read_string, function (err, data){
+     if(err)
+     return console.error(err);
+
+     //console.log(data);
+	console.log('Success !!!');
+})

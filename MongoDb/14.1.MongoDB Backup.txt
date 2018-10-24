@@ -1,0 +1,5 @@
+mongorestore --db mydb
+mongorestore --db mydb
+mongorestore --db mydb dump/mydb
+mongodump --db school --collection students
+mongorestore --db school --collection students dump/sc

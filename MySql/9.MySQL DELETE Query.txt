@@ -1,0 +1,2 @@
+delete from database.edata where eid=6;
+

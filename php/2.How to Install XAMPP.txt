@@ -1,0 +1,12 @@
+you can write the barre adresse
+https://www.apachefriends.org/de/download_success.html
+
+if you meet the problem you can open cmd
+netstat -ano
+taskil /pid 4
+
+Apache 
+confg
+http.conf 
+listen 80
+to changer listen 8080

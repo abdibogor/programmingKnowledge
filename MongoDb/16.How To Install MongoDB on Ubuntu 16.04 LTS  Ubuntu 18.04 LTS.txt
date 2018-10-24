@@ -1,0 +1,17 @@
+ sudo apt-get install mongodb
+give the password:123456
+Y
+ sudo apt-get update
+ sudo service mongodb start
+ clear
+ mongo
+show dbs;
+switched to db mydb
+mydb
+db.mycol.insert({"name" : "Mark"});
+show dbs;
+show collections;
+db.mycol.find();
+
+
+ 

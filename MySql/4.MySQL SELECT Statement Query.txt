@@ -1,0 +1,2 @@
+select eid,name,surname,age, from database.edata;
+

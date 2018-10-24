@@ -1,0 +1,3 @@
+$a == $b Equals True if $a is equal $b
+$a === $b identical True if $a is equal $b,and of the same type
+$

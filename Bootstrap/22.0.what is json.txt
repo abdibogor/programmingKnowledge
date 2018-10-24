@@ -1,0 +1,39 @@
+JavaScript Object Notation (JSON) est un format de données textuelles dérivé de la notation des objets du langage JavaScript. 
+Il permet de représenter de l’information structurée comme le permet XML par exemple. 
+Créé par Douglas Crockford entre 2002 et 2005, il est décrit par la RFC 7159 de l’IETF.
+
+Un document JSON a pour fonction de représenter de l'information accompagnée d'étiquettes permettant d'en interpréter les divers éléments, sans aucune restriction sur le nombre de celles-ci.
+
+Un document JSON ne comprend que deux types d'éléments structurels :
+
+des ensembles de paires « nom » (alias « clé ») / « valeur » ;
+des listes ordonnées de valeurs.
+Ces mêmes éléments représentent trois types de données :
+
+des objets ;
+des tableaux ;
+des valeurs génériques de type tableau,
+ objet, 
+booléen, 
+nombre, 
+chaîne ou null.
+
+
+
+JSON: JavaScript Object Notation.
+
+
+JSON is a syntax for storing and exchanging data.
+
+
+JSON is text, written with JavaScript object notation.
+
+
+What is JSON?
+JSON stands for JavaScript Object Notation
+
+JSON is a lightweight data-interchange format
+
+JSON is "self-describing" and easy to understand
+
+JSON is language independent *

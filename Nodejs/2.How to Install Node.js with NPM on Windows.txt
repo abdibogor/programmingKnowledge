@@ -1,0 +1,9 @@
+open your  browser
+write node js download
+
+open cmd
+node -v
+npm -v
+node
+
+127.0.0.1:3000/

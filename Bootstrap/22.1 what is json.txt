@@ -1,0 +1,18 @@
+"Json" stands for "Javascript Object Notation".
+Despite the Name, Json is a (mostly) language-independent way of specifying objects as name-value pairs
+Json is a way of structuring data ... Json is a data format.
+
+
+		Json Value
+A Json instance contains a singel Json value.
+A Json value may be either an object , array , number, string, true, false, or null:
+
+
+  	Value  
+			Object
+			array
+			number
+			string
+			true
+			false
+			null

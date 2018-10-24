@@ -1,0 +1,20 @@
+use school
+db.students.find()
+db.students.update(
+{"_id": ObjectId("56c6321089c7e48bd97")},
+{$set : {"lastName" : "Masen"}}
+)
+
+db.students.update(
+{"Age" : "16"},
+{$set : {"LastName" : "wogh"}},
+ {multi: true}
+)
+
+db.students.find()
+
+db.students.save(
+   {"_id" : ObjectId("56c6321089b3c7e4833bdb97"), "StudentNo" : "1", "FirstName" : "Mark", "LastName" : "Masen", "Age" : "14" }
+)
+db.students.find()
+

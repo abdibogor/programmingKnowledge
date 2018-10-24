@@ -1,0 +1,26 @@
+  Introduction NODE.JS
+. NOde.js was created by Ryan Dahl starting in 2009, and its growth is sponsored by Joyent, his employer.
+
+WHAT IS NODE.JS ?
+. Evented I/O for javascript
+. Server Side Javascript
+. Runs on Google's V8 Javascrîpt Engine
+. Licence MIT
+. Node's goal ist to provide an easy way to build scalable network programs.
+
+
+Node.js is not....
+. Another Web framework
+. For beginner
+. Multi-thread
+
+
+What IS UNIQUE ABOUT NODE.JS?
+. JavaSCript used in cliend-side but node.js puts the JavaScript on server-side this making communication between client and server will happen in same language.
+. Servers are normally thread based but Node.JS is "Event" based. Node.JS servers each request in a Evented loop that can able to handle simultaneous.
+. Node.JS programs are executed by V8 Javascript engine the same used by Google chrome browser
+
+Why Learn NODe.Js
+- it's fast.
+- it can handle tons of content requests(il peut gérer des tonnes de demandes de contenu)
+- it's written in Javascript (which means you can use the same code server side and client side)

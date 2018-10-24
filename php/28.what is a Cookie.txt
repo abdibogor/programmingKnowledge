@@ -1,0 +1,5 @@
+. A cookie is often used to identify a user
+. A cookie is a small file that the server embeds on the user's computer
+. Each time the same computer requests a page with a browser,it wil send the cookie too.
+
+

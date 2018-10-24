@@ -1,0 +1,9 @@
+execute cmder
+cd ..
+mkdir first_npm
+npm init 
+cd first_npm\
+
+clear
+
+npm init

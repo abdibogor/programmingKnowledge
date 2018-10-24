@@ -1,0 +1,8 @@
+/*
+== equal 
+!= notequal
+> greater than
+< less than
+>= greater than
+<= less than
+*/

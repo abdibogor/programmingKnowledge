@@ -1,0 +1,2 @@
+appwiz.cpl
+remove in this application panneau de configuration

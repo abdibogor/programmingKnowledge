@@ -1,0 +1,1 @@
+select * from database.edata wher age >= 33 ;

@@ -1,0 +1,7 @@
+. A session is a way to store information(in the form of variables) to be used across multiple pages.
+  Une session est un moyen de stocker des informations (sous la forme de variables) à utiliser sur plusieurs pages.
+. PHP session variables is used to store information about, or change settings for a users session.
+  Les variables de session PHP sont utilisées pour stocker des informations sur ou modifier les paramètres d'une session utilisateur.
+. Session variables hold(hayso) information about one single user, and are available to all pages in one application.
+    
+

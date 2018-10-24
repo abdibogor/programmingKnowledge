@@ -1,0 +1,7 @@
+use mydb
+db.createCollection("mycollection")
+show collections
+db.myCollections2.insert({"name":"Max"})
+show collections
+db.myCollection.drop()
+show collections

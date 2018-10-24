@@ -1,0 +1,19 @@
+nodejs.org/en/
+ click installing Node.js via package manager
+ sudo apt-get install culr
+ Y
+ clear
+ sudo apt-get install python-software-properties
+ wget -qO- https://deb.nodesource.com/setup_10.x | sudo -E bash -
+ sudo apt-get install -y nodejs
+ clear
+ node -v
+ npm -v
+ node
+ console.log("Hello Node"); 
+ .exit
+ cd Desktop/
+ Desktop$ gedit app.js
+ Desktop$
+
+that's cool tutoriel

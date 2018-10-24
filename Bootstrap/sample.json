@@ -1,0 +1,19 @@
+{
+	"name": "Mark",
+	"surname": "Bogoreh",
+	"age" : 26,
+				"address" : {
+				"street" : "djibouti",
+				"city": "Allo",
+				"Zip":  77746610,
+	},
+	
+	"phone": [
+	   25377746110, 
+	   25377612165, 
+	   25377812429
+ ] 
+	"single" : true,
+	"skill" : null,
+	
+}

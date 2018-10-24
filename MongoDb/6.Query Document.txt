@@ -1,0 +1,10 @@
+use school
+db.students.find().pretty()
+db.students.findOen()
+db.students.find(
+{
+"StudentNo" : "2"
+"Age" : {$lte : "15"} 
+// "Age" : {$e : "15"} 
+  }
+)

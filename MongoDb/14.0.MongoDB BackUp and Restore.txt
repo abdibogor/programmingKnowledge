@@ -1,0 +1,16 @@
+cmd
+mongo
+show dbs
+use mydb
+db.dropDatabase()
+use school
+db.dropDatabase()
+
+show dbs
+show dbs
+use mydb
+db.dropDatabase()
+show dbs
+show dbs
+students
+db.students.drop()

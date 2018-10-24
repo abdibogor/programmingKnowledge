@@ -1,0 +1,9 @@
+use school
+db.students.find()
+db.students.find({}, {"StudentNo" : 1, "FirstName" : 1, "_id": 0}).limit(4)
+db.students.find({}, {"StudentNo" : 1, "FirstName" : 1, "_id": 0}).skip(2)
+
+db.students.find({}, {"StudentNo" : 1, "FirstName" : 1, "_id": 0}).skip(2).limit(3)
+
+db.students.find({}, {"StudentNo" : 1, "FirstName" : 1, "_id": 0}).sort({"firstName", 1})
+

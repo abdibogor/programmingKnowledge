@@ -1,0 +1,2 @@
+update database.edata set name='john' ,age=27 where eid=1;
+

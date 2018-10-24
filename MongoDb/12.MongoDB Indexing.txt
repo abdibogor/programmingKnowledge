@@ -1,0 +1,15 @@
+use step
+
+for(i=0; i < 100000; ++i) {
+   db.posts.insert({"student_id": i, "name": "Mark"});
+}
+
+cmd
+MongoDB shell version
+switched to db temp
+db.posts.find()
+
+db.posts.find({"student_id" : 1000});
+
+db.posts.ensureIndex({"student_id" : 1});
+db.posts.find({"student_id" : 10000});

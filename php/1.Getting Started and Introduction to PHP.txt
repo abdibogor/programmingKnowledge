@@ -1,0 +1,13 @@
+PHP == 'Hypertext Preprocessor'
+Open-source, server-side scripting language
+Used to generate dynamic web-pages
+PHP scripts reside between reserved PHP tags(Qoraallada PHP waxay joogaan inta u dhaxaysa tagsiyada PHP)
+-This allows the programmer to embed PHP SCripts with in HTML Page
+
+What is PHP?
+.interpreted language, script are parsed at run-time rather than compiled beforehand
+.executed on the server-side
+. source-code not visible by client
+   - view source in browsers does nt display the php code
+.various built-in functions allow for fast development
+.compatible with many popular database.

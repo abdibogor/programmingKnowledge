@@ -1,0 +1,9 @@
+Database -> Collections -> Documents
+
+use mydb
+db
+show dbs 
+db.mycollection.insert({"name":"Max"})
+show dbs
+db.dropDatabase()
+show dbs

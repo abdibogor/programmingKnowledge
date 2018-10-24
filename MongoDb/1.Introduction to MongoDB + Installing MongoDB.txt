@@ -1,0 +1,15 @@
+. Document-oriented NoSQL database.
+. Schema-free.Based on Binary JSON; BSON.
+. Organized in Group of Documents -> Collections
+. Auto-Sharing in order to scale horizontally.
+. Simple query language. Rich, document-based queries.
+. Open Source (GNU AGPL V3.0)
+
+  MongoDB vs. RDBMS
+
+. Collection vs. table
+. Document vs. row
+. Field vs. column
+. Collection isn't strict about whag goes in it (it's schema-less).
+
+

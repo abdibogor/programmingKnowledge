@@ -1,0 +1,10 @@
+use school
+
+db.students.find()
+db.students.remove(
+{/* "_id" : ObjectId("56c63217089b3c7e4B3bd9f" */)        
+    "Age" : "16"
+} , 1
+)
+
+

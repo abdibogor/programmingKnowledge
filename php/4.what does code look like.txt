@@ -1,0 +1,17 @@
+What does PHP code look like?
+. Structurally similar to C/C++
+. Supports procedural() and object-oriented paradigm (to some degree)
+. All PHP statements end with a semi-colon
+. Each PHP script must be enclosed in the reserved PHP tag
+
+<?php 
+   
+?>
+
+Comments in PHP
+. Standard C, C++, and shell comment symbols
+// c++ and Java-style comment
+# shell-style comments
+/* C-style comments
+   theses can span multiple lines*/
+

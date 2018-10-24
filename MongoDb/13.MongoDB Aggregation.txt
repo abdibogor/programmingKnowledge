@@ -1,0 +1,6 @@
+cmd
+mongo
+db.students.find();
+db.students.aggregate([{$group : {_id : "$Gender" , MyResult : {$sum : 1}}}]);
+db.students.aggregate([{$group : {_id : "$Gender" , MaxAge : {$max : "Age"}}}]);
+db.students.aggregate([{$group : {_id : "$Gender" , MinAge : {$mix : "Age"}}}]);

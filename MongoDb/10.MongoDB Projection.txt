@@ -1,0 +1,3 @@
+MongoDB - Projection -> projections means selecting only necessaire data rather that selecting whole of the data of a document
+>db.COLLECTION_NAME.find{},{KEY:1})
+db.students.find({}, {"FirstName" : 1, "_id" : 0})

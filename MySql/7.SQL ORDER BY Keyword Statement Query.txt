@@ -1,0 +1,3 @@
+select * from database.edata order by name;
+
+

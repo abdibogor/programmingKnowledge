@@ -1,0 +1,30 @@
+use school
+db.students.insert{
+  [
+     {
+   "StudentNo": "1",
+    "FirstName": "Mark",
+    "LastName": "Waugh",
+    "Age": "10"
+  },
+   {
+   "StudentNo": "8",
+    "FirstName": "Denny",
+    "LastName": "Denzonpa",
+    "Age": "16"
+  }, 
+   {
+   "StudentNo": "7",
+    "FirstName": "July maria",
+    "LastName": "Cyrus",
+    "Age": "16"
+  },
+ ]
+/*{
+    "StudentNo": "1",
+    "FirstName": "Mark",
+    "LastName": "Waugh",
+    "Age": "10"
+   },
+ */
+}

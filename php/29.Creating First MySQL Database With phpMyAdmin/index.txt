@@ -1,0 +1,20 @@
+localhost:8080/
+phpadmin
+Users
+you can choose last "root"
+Edit priviléges
+let see
+
+and return
+
+New
+Create database
+Student		  collation	creation
+Habon		   5
+ID 		   INT			PRIMARY
+Name 		   Varchar	  40	  
+surname            varchar	  40
+Age                varchar	  40
+Password           varchar	  40
+
+SAVE

@@ -1,0 +1,6 @@
+sudo apt-get install mysql-server
+mysql
+show databases;
+quit
+mysql -u root -p
+enter password: 100594

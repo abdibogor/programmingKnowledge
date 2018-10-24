@@ -1,0 +1,16 @@
+Menu Database
+Store in Vault
+
+Create in new schema
+Name: Database
+click Apply
+
+Create in New Sql 
+CREATE SCHEMA `Database123` ;
+
+CREATE TABLE 'database'. `Employeeinfo` {
+   `idEmployeeInfo` INT NOT NULL ,
+   `name`VARCHAR(45)NULL ,
+   `surname`VARCHAR(45)NULL,
+   `age`INT NULL,
+   PRIMARY KEY ('idEmployeeInfo')};

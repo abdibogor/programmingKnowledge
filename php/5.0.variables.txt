@@ -1,0 +1,20 @@
+. PHP variables must begin with a "$" sign
+. Case-sensitive($Boo != $BOO != $BOo)
+. Global and locally-scopped variables
+  - Global variables can be used anywhere
+  - Local variables restricted() to a function or class
+. Certain variable names reserved by PHP
+  - Form variables ($_POST, $_GET)
+  - Server variables($_SERVER)
+  - Etc.
+
+Variable usage
+ . <?php
+ . $foo = 25;		// Numerical variable
+ . $bar = "Hello";	// string variable
+
+ . $foo = ($foo * 7);	//Multiples foo by 7
+ . $bar = ($bar * 7);	//Invalid expression
+
+
+?>

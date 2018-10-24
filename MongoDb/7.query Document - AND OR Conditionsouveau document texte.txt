@@ -1,0 +1,18 @@
+use.school
+db.students.find()
+db.students.find(
+  {"Firstname" : "Mark", "Age" : "10"}
+)
+
+db.students.find(
+{
+  $or : [{"Firstname" : "Mark"},{"Age" : "15"}]
+  
+}
+)
+
+db.students.find(
+{
+  "Firstname": "Mark" , $or: [{"Age" : "15"},{"Age" : "16"}]
+}
+)
